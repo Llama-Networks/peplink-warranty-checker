@@ -1,5 +1,3 @@
- Node.js Peplink Warranty Checker (No UI) - README body { max-width: 800px; margin: 2em auto; font-family: sans-serif; line-height: 1.5; } pre, code { background: #f4f4f4; padding: 0.5em; border: 1px solid #ddd; display: block; overflow-x: auto; } h1, h2, h3 { margin-top: 1.5em; }
-
 Node.js Peplink Warranty Checker (No UI)
 ========================================
 
